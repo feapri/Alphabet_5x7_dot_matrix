@@ -39,7 +39,7 @@ The user can enter upto three lines of text and the result will be matplotlib fi
 
 - There are some custom "figures" loaded in the dataframe index 100+ these cannot be indexed by `string.printable`, are here to play with.   see last cells on this book
 
-## Esamples
+## Examples
 
 |||
 |---|---|
