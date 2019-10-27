@@ -1,0 +1,39 @@
+# https://matplotlib.org/3.1.1/api/markers_api.html?highlight=matplotlib%20markers#module-matplotlib.markers
+marker;description
+".";point
+",";pixel
+"o";circle
+"v";triangle_down
+"^";triangle_up
+"<";triangle_left
+">";triangle_right
+"1";tri_down
+"2";tri_up
+"3";tri_left
+"4";tri_right
+"8";octagon
+"s";square
+"p";pentagon
+"P";plus (filled)
+"*";star
+"h";hexagon1
+"H";hexagon2
+"+";plus
+"x";x
+"X";x (filled)
+"D";diamond
+"d";thin_diamond
+"|";vline
+"_";hline
+0;TICKLEFT
+1;TICKRIGHT
+2;TICKUP
+3;TICKDOWN
+4;CARETLEFT
+CARETRIGHT
+6;CARETUP
+7;CARETDOWN
+8;CARETLEFTBASE
+9;CARETRIGHTBASE
+10;(CARETUPBASE
+11;(CARETDOWNBASE
