@@ -1,4 +1,4 @@
-# Alphabet uses matplothlib to draw a custom message in a 5x7 dot matrix
+# Alphabet uses matplothlib to draw a custom message in a 5x7 dot matrix per character
 
 The user can enter upto three lines of text and the result will be matplotlib figure with the text printed in a 5x7 led-like dot-matrix (like the ones used to disply messages on the streets).
 
