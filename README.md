@@ -2,6 +2,15 @@
 
 The user can enter upto three lines of text and the result will be matplotlib figure with the text printed in a 5x7 led-like dot-matrix (like the ones used to disply messages on the streets).
 
+## Examples
+
+|||
+|---|---|
+|![](dot_matrix_w1.png)|![](dot_matrix_k1.png)|
+|![](dot_matrix_w2.png)|![](dot_matrix_k2.png)|
+|![](dot_matrix_w_063.png)|![](dot_matrix_k_063.png)|
+|![](dot_matrix__markers_0b.png)|![](dot_matrix__markers_AY.png)|
+
 
 ## How it works:
 - Enter the text you want to display inside single quotes:   
@@ -38,13 +47,4 @@ The user can enter upto three lines of text and the result will be matplotlib fi
 - Want to customize the markers... see [matplotlib.markers](https://matplotlib.org/3.1.1/api/markers_api.html?highlight=matplotlib%20markers#module-matplotlib.markers) and the last cells for an example
 
 - There are some custom "figures" loaded in the dataframe index 100+ these cannot be indexed by `string.printable`, are here to play with.   see last cells on this book
-
-## Examples
-
-|||
-|---|---|
-|![](dot_matrix_w1.png)|![](dot_matrix_k1.png)|
-|![](dot_matrix_w2.png)|![](dot_matrix_k2.png)|
-|![](dot_matrix_w_063.png)|![](dot_matrix_k_063.png)|
-|![](dot_matrix__markers_0b.png)|![](dot_matrix__markers_AY.png)|
 
