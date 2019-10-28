@@ -39,7 +39,8 @@ The user can enter upto three lines of text and the result will be matplotlib fi
 - The index from `string.printable` is the same as the index in the DataFrame.   Using this index the (x, y) coordinates are located in the DataFrame and made available to be plot. 
 - Using matplotlib the charater is plotted on it's repective space. 
 
-**Note: the color for each character is random based on the `colors` list.  Intentionally the white 'w` and yellow `y` are removed from the random selection `random.randint(0, len(colors)-3)` as these are hard to see when the background is white.**
+**Note: the color for each character is random based on the `colors` list.**
+    - Intentionally the white 'w` and yellow `y` are removed from the random selection `random.randint(0, len(colors)-3)` as these are hard to see when the background is white or light.
 
 - If you want to use a single color for all the characters, you can remove the `#` on this line `#font_color = 'k'` and set your favorite color
 
